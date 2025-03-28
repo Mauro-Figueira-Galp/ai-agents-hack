@@ -1,0 +1,14 @@
+{
+  "date": "2025-03-24",
+  "merchant": "Contoso Coffee",
+  "amount": 103.28,
+  "currency": "USD",
+  "category": "Meals",
+  "description": "Business meeting refreshments including coffee and pastries.",
+  "employee_id": "UNKNOWN",
+  "status": "Approved",
+  "notes": "Invoice prepared for a morning business meeting.",
+  "invoice_id": "COFFEE-2025-0112",
+  "receipt_id": "RCPT-649674DC",
+  "processed_at": "2025-03-28T14:38:37.608917"
+}

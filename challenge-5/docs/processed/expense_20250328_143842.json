@@ -1,0 +1,13 @@
+{
+  "date": "2025-03-24",
+  "merchant": "Contoso Air",
+  "amount": 4416.25,
+  "currency": "USD",
+  "category": "Travel",
+  "description": "Airfare and additional fees for round trip flight from Seattle to Munich",
+  "employee_id": "UNKNOWN",
+  "status": "Approved",
+  "notes": "Includes airfare, taxes, fees, and seat selection charges. Receipt indicates a business class ticket.",
+  "receipt_id": "RCPT-98CAD279",
+  "processed_at": "2025-03-28T14:38:42.163944"
+}
